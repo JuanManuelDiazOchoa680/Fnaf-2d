@@ -1,4 +1,4 @@
-# Fnaf-2d
+# Cursed School
 # (Python & Pygame)
 
 Este proyecto es un videojuego de terror y supervivencia en 2D/3D desarrollado desde cero en **Python** utilizando la biblioteca **Pygame**. Inspirado en las mecánicas clásicas de gestión de recursos y tensión, el objetivo principal es sobrevivir a una jornada crítica en una oficina vigilada mientras eres acechado por una Inteligencia Artificial implacable.
